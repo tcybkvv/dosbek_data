@@ -3,7 +3,7 @@
         {
             "id": 1,
             "photos": [
-                "https://via.placeholder.com/300x150?text=BMW+3+Series"
+                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
             ],
             "name": "BMW 3 Series",
             "price": 1514948,
@@ -21,524 +21,56 @@
         {
             "id": 2,
             "photos": [
-                "https://via.placeholder.com/300x150?text=Subaru+Forester"
+                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
             ],
-            "name": "Subaru Forester",
-            "price": 3525048,
-            "year": 2015,
-            "steering": "Правый",
+            "name": "BMW 3 Series",
+            "price": 1514948,
+            "year": 2020,
+            "steering": "Левый",
             "color": "Серый",
-            "body": "Универсал",
-            "drive": "Передний",
-            "mileage": 172623,
+            "body": "Кроссовер",
+            "drive": "Полный",
+            "mileage": 192413,
             "transmission": "Вариатор",
             "availability": "В наличии",
-            "engine": "2.8L бензин",
+            "engine": "2.5L бензин",
             "condition": "Среднее"
         },
         {
             "id": 3,
             "photos": [
-                "https://via.placeholder.com/300x150?text=Kia+Sportage"
+                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
             ],
-            "name": "Kia Sportage",
-            "price": 1712664,
-            "year": 2018,
+            "name": "BMW 3 Series",
+            "price": 1514948,
+            "year": 2020,
             "steering": "Левый",
-            "color": "Синий",
+            "color": "Серый",
             "body": "Кроссовер",
-            "drive": "Задний",
-            "mileage": 178493,
-            "transmission": "Автомат",
-            "availability": "В пути",
-            "engine": "2.4L бензин",
+            "drive": "Полный",
+            "mileage": 192413,
+            "transmission": "Вариатор",
+            "availability": "В наличии",
+            "engine": "2.5L бензин",
             "condition": "Среднее"
         },
         {
             "id": 4,
             "photos": [
-                "https://via.placeholder.com/300x150?text=Subaru+Forester"
+                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
             ],
-            "name": "Subaru Forester",
-            "price": 2277438,
-            "year": 2018,
-            "steering": "Левый",
-            "color": "Черный",
-            "body": "Внедорожник",
-            "drive": "Задний",
-            "mileage": 96905,
-            "transmission": "Автомат",
-            "availability": "В наличии",
-            "engine": "1.6L бензин",
-            "condition": "Отличное"
-        },
-        {
-            "id": 5,
-            "photos": [
-                "https://via.placeholder.com/300x150?text=Nissan+Leaf"
-            ],
-            "name": "Nissan Leaf",
-            "price": 1087051,
-            "year": 2015,
-            "steering": "Левый",
-            "color": "Серебристый",
-            "body": "Хэтчбек",
-            "drive": "Задний",
-            "mileage": 90072,
-            "transmission": "Автомат",
-            "availability": "В пути",
-            "engine": "2.0L бензин",
-            "condition": "Среднее"
-        },
-        {
-            "id": 6,
-            "photos": [
-                "https://via.placeholder.com/300x150?text=Tesla+Model+Y"
-            ],
-            "name": "Tesla Model Y",
-            "price": 3887547,
-            "year": 2019,
-            "steering": "Правый",
-            "color": "Синий",
-            "body": "Внедорожник",
-            "drive": "Передний",
-            "mileage": 57978,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
-            "engine": "2.8L бензин",
-            "condition": "Среднее"
-        },
-        {
-            "id": 7,
-            "photos": [
-                "https://via.placeholder.com/300x150?text=Honda+Civic"
-            ],
-            "name": "Honda Civic",
-            "price": 942844,
-            "year": 2022,
-            "steering": "Правый",
-            "color": "Красный",
-            "body": "Внедорожник",
-            "drive": "Передний",
-            "mileage": 166083,
-            "transmission": "Вариатор",
-            "availability": "В пути",
-            "engine": "2.0L бензин",
-            "condition": "Хорошее"
-        },
-        {
-            "id": 8,
-            "photos": [
-                "https://via.placeholder.com/300x150?text=Tesla+Model+3"
-            ],
-            "name": "Tesla Model 3",
-            "price": 3825033,
+            "name": "BMW 3 Series",
+            "price": 1514948,
             "year": 2020,
             "steering": "Левый",
-            "color": "Синий",
-            "body": "Хэтчбек",
-            "drive": "Задний",
-            "mileage": 35275,
-            "transmission": "Вариатор",
-            "availability": "В пути",
-            "engine": "2.3L бензин",
-            "condition": "Хорошее"
-        },
-        {
-            "id": 9,
-            "photos": [
-                "https://via.placeholder.com/300x150?text=Nissan+Qashqai"
-            ],
-            "name": "Nissan Qashqai",
-            "price": 2587258,
-            "year": 2017,
-            "steering": "Правый",
             "color": "Серый",
-            "body": "Седан",
-            "drive": "Полный",
-            "mileage": 182048,
-            "transmission": "Механика",
-            "availability": "В наличии",
-            "engine": "2.7L бензин",
-            "condition": "Хорошее"
-        },
-        {
-            "id": 10,
-            "photos": [
-                "https://via.placeholder.com/300x150?text=Kia+Ceed"
-            ],
-            "name": "Kia Ceed",
-            "price": 3506249,
-            "year": 2018,
-            "steering": "Левый",
-            "color": "Синий",
-            "body": "Хэтчбек",
-            "drive": "Полный",
-            "mileage": 76975,
-            "transmission": "Механика",
-            "availability": "В наличии",
-            "engine": "3.4L бензин",
-            "condition": "Среднее"
-        },
-        {
-            "id": 11,
-            "photos": [
-                "https://via.placeholder.com/300x150?text=Honda+Civic"
-            ],
-            "name": "Honda Civic",
-            "price": 3242168,
-            "year": 2022,
-            "steering": "Левый",
-            "color": "Синий",
-            "body": "Хэтчбек",
-            "drive": "Полный",
-            "mileage": 99092,
-            "transmission": "Вариатор",
-            "availability": "В пути",
-            "engine": "1.8L бензин",
-            "condition": "Отличное"
-        },
-        {
-            "id": 12,
-            "photos": [
-                "https://via.placeholder.com/300x150?text=Toyota+RAV4"
-            ],
-            "name": "Toyota RAV4",
-            "price": 1545066,
-            "year": 2017,
-            "steering": "Правый",
-            "color": "Красный",
-            "body": "Внедорожник",
-            "drive": "Задний",
-            "mileage": 180305,
-            "transmission": "Автомат",
-            "availability": "В пути",
-            "engine": "1.3L бензин",
-            "condition": "Отличное"
-        },
-        {
-            "id": 13,
-            "photos": [
-                "https://via.placeholder.com/300x150?text=Honda+Civic"
-            ],
-            "name": "Honda Civic",
-            "price": 2983038,
-            "year": 2020,
-            "steering": "Левый",
-            "color": "Белый",
-            "body": "Внедорожник",
-            "drive": "Задний",
-            "mileage": 62045,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
-            "engine": "1.7L бензин",
-            "condition": "Среднее"
-        },
-        {
-            "id": 14,
-            "photos": [
-                "https://via.placeholder.com/300x150?text=Mazda+3"
-            ],
-            "name": "Mazda 3",
-            "price": 1744576,
-            "year": 2019,
-            "steering": "Правый",
-            "color": "Серебристый",
-            "body": "Седан",
-            "drive": "Задний",
-            "mileage": 113977,
-            "transmission": "Механика",
-            "availability": "В наличии",
-            "engine": "3.3L бензин",
-            "condition": "Хорошее"
-        },
-        {
-            "id": 15,
-            "photos": [
-                "https://via.placeholder.com/300x150?text=Subaru+Forester"
-            ],
-            "name": "Subaru Forester",
-            "price": 3204796,
-            "year": 2016,
-            "steering": "Правый",
-            "color": "Серый",
-            "body": "Внедорожник",
-            "drive": "Полный",
-            "mileage": 68632,
-            "transmission": "Механика",
-            "availability": "В наличии",
-            "engine": "2.4L бензин",
-            "condition": "Хорошее"
-        },
-        {
-            "id": 16,
-            "photos": [
-                "https://via.placeholder.com/300x150?text=Kia+Ceed"
-            ],
-            "name": "Kia Ceed",
-            "price": 2819316,
-            "year": 2017,
-            "steering": "Правый",
-            "color": "Серый",
-            "body": "Внедорожник",
-            "drive": "Задний",
-            "mileage": 78738,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
-            "engine": "1.3L бензин",
-            "condition": "Хорошее"
-        },
-        {
-            "id": 17,
-            "photos": [
-                "https://via.placeholder.com/300x150?text=Mazda+CX-5"
-            ],
-            "name": "Mazda CX-5",
-            "price": 2410545,
-            "year": 2015,
-            "steering": "Левый",
-            "color": "Белый",
-            "body": "Универсал",
-            "drive": "Полный",
-            "mileage": 115167,
-            "transmission": "Автомат",
-            "availability": "В наличии",
-            "engine": "2.0L бензин",
-            "condition": "Хорошее"
-        },
-        {
-            "id": 18,
-            "photos": [
-                "https://via.placeholder.com/300x150?text=Kia+Ceed"
-            ],
-            "name": "Kia Ceed",
-            "price": 3967671,
-            "year": 2016,
-            "steering": "Левый",
-            "color": "Белый",
-            "body": "Седан",
-            "drive": "Передний",
-            "mileage": 188053,
-            "transmission": "Вариатор",
-            "availability": "В пути",
-            "engine": "2.9L бензин",
-            "condition": "Отличное"
-        },
-        {
-            "id": 19,
-            "photos": [
-                "https://via.placeholder.com/300x150?text=Kia+Rio"
-            ],
-            "name": "Kia Rio",
-            "price": 3032667,
-            "year": 2023,
-            "steering": "Правый",
-            "color": "Белый",
             "body": "Кроссовер",
-            "drive": "Задний",
-            "mileage": 89086,
+            "drive": "Полный",
+            "mileage": 192413,
             "transmission": "Вариатор",
-            "availability": "В пути",
+            "availability": "В наличии",
             "engine": "2.5L бензин",
             "condition": "Среднее"
-        },
-        {
-            "id": 20,
-            "photos": [
-                "https://via.placeholder.com/300x150?text=Hyundai+Santa+Fe"
-            ],
-            "name": "Hyundai Santa Fe",
-            "price": 2244453,
-            "year": 2022,
-            "steering": "Правый",
-            "color": "Белый",
-            "body": "Универсал",
-            "drive": "Передний",
-            "mileage": 108202,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
-            "engine": "2.3L бензин",
-            "condition": "Среднее"
-        },
-        {
-            "id": 21,
-            "photos": [
-                "https://via.placeholder.com/300x150?text=BMW+X5"
-            ],
-            "name": "BMW X5",
-            "price": 921630,
-            "year": 2015,
-            "steering": "Левый",
-            "color": "Синий",
-            "body": "Внедорожник",
-            "drive": "Передний",
-            "mileage": 112095,
-            "transmission": "Механика",
-            "availability": "В пути",
-            "engine": "1.7L бензин",
-            "condition": "Среднее"
-        },
-        {
-            "id": 22,
-            "photos": [
-                "https://via.placeholder.com/300x150?text=Toyota+Prius"
-            ],
-            "name": "Toyota Prius",
-            "price": 843587,
-            "year": 2018,
-            "steering": "Левый",
-            "color": "Серый",
-            "body": "Седан",
-            "drive": "Полный",
-            "mileage": 127027,
-            "transmission": "Вариатор",
-            "availability": "В пути",
-            "engine": "2.9L бензин",
-            "condition": "Среднее"
-        },
-        {
-            "id": 23,
-            "photos": [
-                "https://via.placeholder.com/300x150?text=Toyota+Prius"
-            ],
-            "name": "Toyota Prius",
-            "price": 1474587,
-            "year": 2020,
-            "steering": "Левый",
-            "color": "Серый",
-            "body": "Универсал",
-            "drive": "Передний",
-            "mileage": 39341,
-            "transmission": "Автомат",
-            "availability": "В наличии",
-            "engine": "2.0L бензин",
-            "condition": "Среднее"
-        },
-        {
-            "id": 24,
-            "photos": [
-                "https://via.placeholder.com/300x150?text=Toyota+Corolla"
-            ],
-            "name": "Toyota Corolla",
-            "price": 3303728,
-            "year": 2020,
-            "steering": "Правый",
-            "color": "Красный",
-            "body": "Кроссовер",
-            "drive": "Задний",
-            "mileage": 82337,
-            "transmission": "Механика",
-            "availability": "В наличии",
-            "engine": "1.9L бензин",
-            "condition": "Отличное"
-        },
-        {
-            "id": 25,
-            "photos": [
-                "https://via.placeholder.com/300x150?text=Toyota+Camry"
-            ],
-            "name": "Toyota Camry",
-            "price": 2556965,
-            "year": 2015,
-            "steering": "Правый",
-            "color": "Черный",
-            "body": "Седан",
-            "drive": "Полный",
-            "mileage": 158783,
-            "transmission": "Автомат",
-            "availability": "В пути",
-            "engine": "2.3L бензин",
-            "condition": "Среднее"
-        },
-        {
-            "id": 26,
-            "photos": [
-                "https://via.placeholder.com/300x150?text=Hyundai+Elantra"
-            ],
-            "name": "Hyundai Elantra",
-            "price": 1543306,
-            "year": 2015,
-            "steering": "Правый",
-            "color": "Синий",
-            "body": "Хэтчбек",
-            "drive": "Полный",
-            "mileage": 156775,
-            "transmission": "Автомат",
-            "availability": "В наличии",
-            "engine": "1.3L бензин",
-            "condition": "Отличное"
-        },
-        {
-            "id": 27,
-            "photos": [
-                "https://via.placeholder.com/300x150?text=Subaru+Outback"
-            ],
-            "name": "Subaru Outback",
-            "price": 2751002,
-            "year": 2021,
-            "steering": "Правый",
-            "color": "Серебристый",
-            "body": "Седан",
-            "drive": "Передний",
-            "mileage": 147535,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
-            "engine": "3.0L бензин",
-            "condition": "Отличное"
-        },
-        {
-            "id": 28,
-            "photos": [
-                "https://via.placeholder.com/300x150?text=Tesla+Model+S"
-            ],
-            "name": "Tesla Model S",
-            "price": 1655322,
-            "year": 2020,
-            "steering": "Правый",
-            "color": "Красный",
-            "body": "Хэтчбек",
-            "drive": "Полный",
-            "mileage": 111662,
-            "transmission": "Автомат",
-            "availability": "В наличии",
-            "engine": "1.8L бензин",
-            "condition": "Отличное"
-        },
-        {
-            "id": 29,
-            "photos": [
-                "https://via.placeholder.com/300x150?text=Nissan+Note"
-            ],
-            "name": "Nissan Note",
-            "price": 3268889,
-            "year": 2019,
-            "steering": "Левый",
-            "color": "Красный",
-            "body": "Седан",
-            "drive": "Передний",
-            "mileage": 101243,
-            "transmission": "Механика",
-            "availability": "В наличии",
-            "engine": "1.5L бензин",
-            "condition": "Среднее"
-        },
-        {
-            "id": 30,
-            "photos": [
-                "https://via.placeholder.com/300x150?text=Toyota+Corolla"
-            ],
-            "name": "Toyota Corolla",
-            "price": 3857025,
-            "year": 2021,
-            "steering": "Правый",
-            "color": "Черный",
-            "body": "Внедорожник",
-            "drive": "Полный",
-            "mileage": 81968,
-            "transmission": "Механика",
-            "availability": "В пути",
-            "engine": "1.4L бензин",
-            "condition": "Отличное"
         }
     ]
 }
