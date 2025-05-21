@@ -13,8 +13,6 @@
             "body": "Кроссовер",
             "drive": "Полный",
             "mileage": 192413,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
             "engine": "2.5L бензин",
             "condition": "Среднее"
         },
@@ -31,8 +29,6 @@
             "body": "Кроссовер",
             "drive": "Полный",
             "mileage": 192413,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
             "engine": "2.5L бензин",
             "condition": "Среднее"
         },
@@ -49,8 +45,6 @@
             "body": "Кроссовер",
             "drive": "Полный",
             "mileage": 192413,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
             "engine": "2.5L бензин",
             "condition": "Среднее"
         },
@@ -67,368 +61,6 @@
             "body": "Кроссовер",
             "drive": "Полный",
             "mileage": 192413,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
-        },
-        {
-            "id": 1,
-            "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
-            ],
-            "name": "BMW 3 Series",
-            "price": 1514948,
-            "year": 2020,
-            "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
-            "drive": "Полный",
-            "mileage": 192413,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
-        },
-        {
-            "id": 2,
-            "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
-            ],
-            "name": "BMW 3 Series",
-            "price": 1314948,
-            "year": 2020,
-            "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
-            "drive": "Полный",
-            "mileage": 192413,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
-        },
-        {
-            "id": 3,
-            "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
-            ],
-            "name": "BMW 3 Series",
-            "price": 1114948,
-            "year": 2020,
-            "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
-            "drive": "Полный",
-            "mileage": 192413,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
-        },
-        {
-            "id": 4,
-            "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
-            ],
-            "name": "BMW 3 Series",
-            "price": 914948,
-            "year": 2020,
-            "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
-            "drive": "Полный",
-            "mileage": 192413,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
-        },
-        {
-            "id": 1,
-            "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
-            ],
-            "name": "BMW 3 Series",
-            "price": 1514948,
-            "year": 2020,
-            "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
-            "drive": "Полный",
-            "mileage": 192413,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
-        },
-        {
-            "id": 2,
-            "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
-            ],
-            "name": "BMW 3 Series",
-            "price": 1314948,
-            "year": 2020,
-            "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
-            "drive": "Полный",
-            "mileage": 192413,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
-        },
-        {
-            "id": 3,
-            "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
-            ],
-            "name": "BMW 3 Series",
-            "price": 1114948,
-            "year": 2020,
-            "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
-            "drive": "Полный",
-            "mileage": 192413,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
-        },
-        {
-            "id": 4,
-            "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
-            ],
-            "name": "BMW 3 Series",
-            "price": 914948,
-            "year": 2020,
-            "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
-            "drive": "Полный",
-            "mileage": 192413,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
-        },
-        {
-            "id": 1,
-            "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
-            ],
-            "name": "BMW 3 Series",
-            "price": 1514948,
-            "year": 2020,
-            "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
-            "drive": "Полный",
-            "mileage": 192413,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
-        },
-        {
-            "id": 2,
-            "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
-            ],
-            "name": "BMW 3 Series",
-            "price": 1314948,
-            "year": 2020,
-            "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
-            "drive": "Полный",
-            "mileage": 192413,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
-        },
-        {
-            "id": 3,
-            "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
-            ],
-            "name": "BMW 3 Series",
-            "price": 1114948,
-            "year": 2020,
-            "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
-            "drive": "Полный",
-            "mileage": 192413,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
-        },
-        {
-            "id": 4,
-            "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
-            ],
-            "name": "BMW 3 Series",
-            "price": 914948,
-            "year": 2020,
-            "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
-            "drive": "Полный",
-            "mileage": 192413,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
-        },
-        {
-            "id": 1,
-            "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
-            ],
-            "name": "BMW 3 Series",
-            "price": 1514948,
-            "year": 2020,
-            "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
-            "drive": "Полный",
-            "mileage": 192413,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
-        },
-        {
-            "id": 2,
-            "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
-            ],
-            "name": "BMW 3 Series",
-            "price": 1314948,
-            "year": 2020,
-            "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
-            "drive": "Полный",
-            "mileage": 192413,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
-        },
-        {
-            "id": 3,
-            "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
-            ],
-            "name": "BMW 3 Series",
-            "price": 1114948,
-            "year": 2020,
-            "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
-            "drive": "Полный",
-            "mileage": 192413,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
-        },
-        {
-            "id": 4,
-            "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
-            ],
-            "name": "BMW 3 Series",
-            "price": 914948,
-            "year": 2020,
-            "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
-            "drive": "Полный",
-            "mileage": 192413,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
-        },
-        {
-            "id": 1,
-            "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
-            ],
-            "name": "BMW 3 Series",
-            "price": 1514948,
-            "year": 2020,
-            "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
-            "drive": "Полный",
-            "mileage": 192413,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
-        },
-        {
-            "id": 2,
-            "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
-            ],
-            "name": "BMW 3 Series",
-            "price": 1314948,
-            "year": 2020,
-            "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
-            "drive": "Полный",
-            "mileage": 192413,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
-        },
-        {
-            "id": 3,
-            "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
-            ],
-            "name": "BMW 3 Series",
-            "price": 1114948,
-            "year": 2020,
-            "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
-            "drive": "Полный",
-            "mileage": 192413,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
-        },
-        {
-            "id": 4,
-            "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
-            ],
-            "name": "BMW 3 Series",
-            "price": 914948,
-            "year": 2020,
-            "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
-            "drive": "Полный",
-            "mileage": 192413,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
             "engine": "2.5L бензин",
             "condition": "Среднее"
         },
@@ -461,8 +93,6 @@
             "body": "Кроссовер",
             "drive": "Полный",
             "mileage": 192413,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
             "engine": "2.5L бензин",
             "condition": "Среднее"
         },
@@ -479,8 +109,6 @@
             "body": "Кроссовер",
             "drive": "Полный",
             "mileage": 192413,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
             "engine": "2.5L бензин",
             "condition": "Среднее"
         },
@@ -497,8 +125,6 @@
             "body": "Кроссовер",
             "drive": "Полный",
             "mileage": 192413,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
             "engine": "2.5L бензин",
             "condition": "Среднее"
         },
@@ -515,8 +141,6 @@
             "body": "Кроссовер",
             "drive": "Полный",
             "mileage": 192413,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
             "engine": "2.5L бензин",
             "condition": "Среднее"
         },
@@ -533,8 +157,6 @@
             "body": "Кроссовер",
             "drive": "Полный",
             "mileage": 192413,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
             "engine": "2.5L бензин",
             "condition": "Среднее"
         },
@@ -551,8 +173,6 @@
             "body": "Кроссовер",
             "drive": "Полный",
             "mileage": 192413,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
             "engine": "2.5L бензин",
             "condition": "Среднее"
         },
@@ -569,8 +189,326 @@
             "body": "Кроссовер",
             "drive": "Полный",
             "mileage": 192413,
-            "transmission": "Вариатор",
-            "availability": "В наличии",
+            "engine": "2.5L бензин",
+            "condition": "Среднее"
+        },
+        {
+            "id": 1,
+            "photos": [
+                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+            ],
+            "name": "BMW 3 Series",
+            "price": 1514948,
+            "year": 2020,
+            "steering": "Левый",
+            "color": "Серый",
+            "body": "Кроссовер",
+            "drive": "Полный",
+            "mileage": 192413,
+            "engine": "2.5L бензин",
+            "condition": "Среднее"
+        },
+        {
+            "id": 2,
+            "photos": [
+                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+            ],
+            "name": "BMW 3 Series",
+            "price": 1314948,
+            "year": 2020,
+            "steering": "Левый",
+            "color": "Серый",
+            "body": "Кроссовер",
+            "drive": "Полный",
+            "mileage": 192413,
+            "engine": "2.5L бензин",
+            "condition": "Среднее"
+        },
+        {
+            "id": 3,
+            "photos": [
+                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+            ],
+            "name": "BMW 3 Series",
+            "price": 1114948,
+            "year": 2020,
+            "steering": "Левый",
+            "color": "Серый",
+            "body": "Кроссовер",
+            "drive": "Полный",
+            "mileage": 192413,
+            "engine": "2.5L бензин",
+            "condition": "Среднее"
+        },
+        {
+            "id": 4,
+            "photos": [
+                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+            ],
+            "name": "BMW 3 Series",
+            "price": 914948,
+            "year": 2020,
+            "steering": "Левый",
+            "color": "Серый",
+            "body": "Кроссовер",
+            "drive": "Полный",
+            "mileage": 192413,
+            "engine": "2.5L бензин",
+            "condition": "Среднее"
+        },
+        {
+            "id": 1,
+            "photos": [
+                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+            ],
+            "name": "BMW 3 Series",
+            "price": 1514948,
+            "year": 2020,
+            "steering": "Левый",
+            "color": "Серый",
+            "body": "Кроссовер",
+            "drive": "Полный",
+            "mileage": 192413,
+            "engine": "2.5L бензин",
+            "condition": "Среднее"
+        },
+        {
+            "id": 2,
+            "photos": [
+                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+            ],
+            "name": "BMW 3 Series",
+            "price": 1314948,
+            "year": 2020,
+            "steering": "Левый",
+            "color": "Серый",
+            "body": "Кроссовер",
+            "drive": "Полный",
+            "mileage": 192413,
+            "engine": "2.5L бензин",
+            "condition": "Среднее"
+        },
+        {
+            "id": 3,
+            "photos": [
+                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+            ],
+            "name": "BMW 3 Series",
+            "price": 1114948,
+            "year": 2020,
+            "steering": "Левый",
+            "color": "Серый",
+            "body": "Кроссовер",
+            "drive": "Полный",
+            "mileage": 192413,
+            "engine": "2.5L бензин",
+            "condition": "Среднее"
+        },
+        {
+            "id": 4,
+            "photos": [
+                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+            ],
+            "name": "BMW 3 Series",
+            "price": 914948,
+            "year": 2020,
+            "steering": "Левый",
+            "color": "Серый",
+            "body": "Кроссовер",
+            "drive": "Полный",
+            "mileage": 192413,
+            "engine": "2.5L бензин",
+            "condition": "Среднее"
+        },
+        {
+            "id": 1,
+            "photos": [
+                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+            ],
+            "name": "BMW 3 Series",
+            "price": 1514948,
+            "year": 2020,
+            "steering": "Левый",
+            "color": "Серый",
+            "body": "Кроссовер",
+            "drive": "Полный",
+            "mileage": 192413,
+            "engine": "2.5L бензин",
+            "condition": "Среднее"
+        },
+        {
+            "id": 2,
+            "photos": [
+                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+            ],
+            "name": "BMW 3 Series",
+            "price": 1314948,
+            "year": 2020,
+            "steering": "Левый",
+            "color": "Серый",
+            "body": "Кроссовер",
+            "drive": "Полный",
+            "mileage": 192413,
+            "engine": "2.5L бензин",
+            "condition": "Среднее"
+        },
+        {
+            "id": 3,
+            "photos": [
+                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+            ],
+            "name": "BMW 3 Series",
+            "price": 1114948,
+            "year": 2020,
+            "steering": "Левый",
+            "color": "Серый",
+            "body": "Кроссовер",
+            "drive": "Полный",
+            "mileage": 192413,
+            "engine": "2.5L бензин",
+            "condition": "Среднее"
+        },
+        {
+            "id": 4,
+            "photos": [
+                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+            ],
+            "name": "BMW 3 Series",
+            "price": 914948,
+            "year": 2020,
+            "steering": "Левый",
+            "color": "Серый",
+            "body": "Кроссовер",
+            "drive": "Полный",
+            "mileage": 192413,
+            "engine": "2.5L бензин",
+            "condition": "Среднее"
+        },
+        {
+            "id": 1,
+            "photos": [
+                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+            ],
+            "name": "BMW 3 Series",
+            "price": 1514948,
+            "year": 2020,
+            "steering": "Левый",
+            "color": "Серый",
+            "body": "Кроссовер",
+            "drive": "Полный",
+            "mileage": 192413,
+            "engine": "2.5L бензин",
+            "condition": "Среднее"
+        },
+        {
+            "id": 2,
+            "photos": [
+                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+            ],
+            "name": "BMW 3 Series",
+            "price": 1314948,
+            "year": 2020,
+            "steering": "Левый",
+            "color": "Серый",
+            "body": "Кроссовер",
+            "drive": "Полный",
+            "mileage": 192413,
+            "engine": "2.5L бензин",
+            "condition": "Среднее"
+        },
+        {
+            "id": 3,
+            "photos": [
+                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+            ],
+            "name": "BMW 3 Series",
+            "price": 1114948,
+            "year": 2020,
+            "steering": "Левый",
+            "color": "Серый",
+            "body": "Кроссовер",
+            "drive": "Полный",
+            "mileage": 192413,
+            "engine": "2.5L бензин",
+            "condition": "Среднее"
+        },
+        {
+            "id": 4,
+            "photos": [
+                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+            ],
+            "name": "BMW 3 Series",
+            "price": 914948,
+            "year": 2020,
+            "steering": "Левый",
+            "color": "Серый",
+            "body": "Кроссовер",
+            "drive": "Полный",
+            "mileage": 192413,
+            "engine": "2.5L бензин",
+            "condition": "Среднее"
+        },
+        {
+            "id": 1,
+            "photos": [
+                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+            ],
+            "name": "BMW 3 Series",
+            "price": 1514948,
+            "year": 2020,
+            "steering": "Левый",
+            "color": "Серый",
+            "body": "Кроссовер",
+            "drive": "Полный",
+            "mileage": 192413,
+            "engine": "2.5L бензин",
+            "condition": "Среднее"
+        },
+        {
+            "id": 2,
+            "photos": [
+                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+            ],
+            "name": "BMW 3 Series",
+            "price": 1314948,
+            "year": 2020,
+            "steering": "Левый",
+            "color": "Серый",
+            "body": "Кроссовер",
+            "drive": "Полный",
+            "mileage": 192413,
+            "engine": "2.5L бензин",
+            "condition": "Среднее"
+        },
+        {
+            "id": 3,
+            "photos": [
+                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+            ],
+            "name": "BMW 3 Series",
+            "price": 1114948,
+            "year": 2020,
+            "steering": "Левый",
+            "color": "Серый",
+            "body": "Кроссовер",
+            "drive": "Полный",
+            "mileage": 192413,
+            "engine": "2.5L бензин",
+            "condition": "Среднее"
+        },
+        {
+            "id": 4,
+            "photos": [
+                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+            ],
+            "name": "BMW 3 Series",
+            "price": 914948,
+            "year": 2020,
+            "steering": "Левый",
+            "color": "Серый",
+            "body": "Кроссовер",
+            "drive": "Полный",
+            "mileage": 192413,
             "engine": "2.5L бензин",
             "condition": "Среднее"
         }
