@@ -3,514 +3,542 @@
         {
             "id": 1,
             "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+                "https://media.ed.edmunds-media.com/audi/a4/2022/oem/2022_audi_a4_sedan_prestige-s-line_fq_oem_5_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/audi/a4/2022/oem/2022_audi_a4_sedan_prestige-s-line_rq_oem_2_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/audi/a4/2022/oem/2022_audi_a4_sedan_prestige-s-line_rq_oem_3_1280x855.jpg"
             ],
-            "name": "BMW 3 Series",
-            "price": 1514948,
-            "year": 2020,
+            "name": "Audi A4",
+            "price": 6500000,
+            "year": 2025,
             "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
+            "color": "Синий",
+            "body": "Седан",
             "drive": "Полный",
-            "mileage": 192413,
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
+            "mileage": 0,
+            "engine": "2.0L турбо бензин, 201 л.с.",
+            "condition": "Новое"
         },
         {
             "id": 2,
             "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+                "https://media.ed.edmunds-media.com/toyota/camry/2025/oem/2025_toyota_camry_sedan_xse_fq_oem_1_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/toyota/camry/2025/oem/2025_toyota_camry_sedan_xse_rq_oem_1_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/toyota/camry/2025/oem/2025_toyota_camry_sedan_xse_rq_oem_3_1280x855.jpg"
             ],
-            "name": "BMW 3 Series",
-            "price": 1314948,
-            "year": 2020,
+            "name": "Toyota Camry",
+            "price": 3800000,
+            "year": 2025,
             "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
-            "drive": "Полный",
-            "mileage": 192413,
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
+            "color": "Серебристый",
+            "body": "Седан",
+            "drive": "Передний",
+            "mileage": 0,
+            "engine": "2.5L бензин, 206 л.с.",
+            "condition": "Новое"
         },
         {
             "id": 3,
             "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+                "https://media.ed.edmunds-media.com/hyundai/sonata/2025/oem/2025_hyundai_sonata_sedan_n-line_fq_oem_1_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/hyundai/sonata/2025/oem/2025_hyundai_sonata_sedan_n-line_rq_oem_1_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/hyundai/sonata/2025/oem/2025_hyundai_sonata_sedan_n-line_rq_oem_2_1280x855.jpg"
             ],
-            "name": "BMW 3 Series",
-            "price": 1114948,
-            "year": 2020,
+            "name": "Hyundai Sonata",
+            "price": 3400000,
+            "year": 2025,
             "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
-            "drive": "Полный",
-            "mileage": 192413,
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
+            "color": "Серебристый",
+            "body": "Седан",
+            "drive": "Передний",
+            "mileage": 0,
+            "engine": "2.5L бензин, 191 л.с.",
+            "condition": "Новое"
         },
         {
             "id": 4,
             "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+                "https://media.ed.edmunds-media.com/kia/k5/2025/oem/2025_kia_k5_sedan_gt_fq_oem_2_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/kia/k5/2025/oem/2025_kia_k5_sedan_gt_fq_oem_1_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/kia/k5/2025/oem/2025_kia_k5_sedan_gt_rq_oem_2_1280x855.jpg"
             ],
-            "name": "BMW 3 Series",
-            "price": 914948,
-            "year": 2020,
+            "name": "Kia K5",
+            "price": 3600000,
+            "year": 2025,
             "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
-            "drive": "Полный",
-            "mileage": 192413,
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
+            "color": "Серебристый",
+            "body": "Седан",
+            "drive": "Передний",
+            "mileage": 0,
+            "engine": "2.0L бензин, 160 л.с.",
+            "condition": "Новое"
         },
         {
-            "id": 1,
+            "id": 5,
             "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+                "https://media.ed.edmunds-media.com/honda/accord/2025/oem/2025_honda_accord_sedan_sport-l-hybrid_fq_oem_1_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/honda/accord/2025/oem/2025_honda_accord_sedan_sport-l-hybrid_fq_oem_2_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/honda/accord/2025/oem/2025_honda_accord_sedan_sport-l-hybrid_rq_oem_1_1280x855.jpg"
             ],
-            "name": "BMW 3 Series",
-            "price": 1514948,
-            "year": 2020,
+            "name": "Honda Accord",
+            "price": 4000000,
+            "year": 2025,
             "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
-            "drive": "Полный",
-            "mileage": 192413,
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
+            "color": "Красный",
+            "body": "Седан",
+            "drive": "Передний",
+            "mileage": 0,
+            "engine": "1.5L турбо бензин, 192 л.с.",
+            "condition": "Новое"
         },
         {
-            "id": 2,
+            "id": 6,
             "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+                "https://media.ed.edmunds-media.com/volkswagen/passat/2022/oem/2022_volkswagen_passat_sedan_r-line_fq_oem_4_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/volkswagen/passat/2022/oem/2022_volkswagen_passat_sedan_r-line_s_oem_1_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/volkswagen/passat/2022/oem/2022_volkswagen_passat_sedan_r-line_rq_oem_3_1280x855.jpg"
             ],
-            "name": "BMW 3 Series",
-            "price": 1314948,
-            "year": 2020,
+            "name": "Volkswagen Passat",
+            "price": 4200000,
+            "year": 2025,
             "steering": "Левый",
             "color": "Серый",
-            "body": "Кроссовер",
-            "drive": "Полный",
-            "mileage": 192413,
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
+            "body": "Седан",
+            "drive": "Передний",
+            "mileage": 0,
+            "engine": "2.0L турбо бензин, 190 л.с.",
+            "condition": "Новое"
         },
         {
-            "id": 3,
+            "id": 7,
             "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+                "https://media.ed.edmunds-media.com/mazda/6/2021/oem/2021_mazda_6_sedan_grand-touring-reserve_fq_oem_4_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/mazda/6/2021/oem/2021_mazda_6_sedan_grand-touring-reserve_rq_oem_5_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/mazda/6/2021/oem/2021_mazda_6_sedan_grand-touring-reserve_rq_oem_1_1280x855.jpg"
             ],
-            "name": "BMW 3 Series",
-            "price": 1114948,
-            "year": 2020,
+            "name": "Mazda 6",
+            "price": 3900000,
+            "year": 2025,
             "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
-            "drive": "Полный",
-            "mileage": 192413,
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
+            "color": "Красный",
+            "body": "Седан",
+            "drive": "Передний",
+            "mileage": 0,
+            "engine": "2.5L бензин, 194 л.с.",
+            "condition": "Новое"
         },
         {
-            "id": 4,
+            "id": 8,
             "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+                "https://media.ed.edmunds-media.com/bmw/3-series/2025/oem/2025_bmw_3-series_sedan_330i_fq_oem_5_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/bmw/3-series/2025/oem/2025_bmw_3-series_sedan_330i_rq_oem_2_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/bmw/3-series/2025/oem/2025_bmw_3-series_sedan_330i_rq_oem_4_1280x855.jpg"
             ],
             "name": "BMW 3 Series",
-            "price": 914948,
-            "year": 2020,
+            "price": 7500000,
+            "year": 2025,
             "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
+            "color": "Синий",
+            "body": "Седан",
             "drive": "Полный",
-            "mileage": 192413,
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
+            "mileage": 0,
+            "engine": "2.0L турбо бензин, 258 л.с.",
+            "condition": "Новое"
         },
         {
-            "id": 1,
+            "id": 9,
             "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+                "https://media.ed.edmunds-media.com/mercedes-benz/c-class/2025/oem/2025_mercedes-benz_c-class_sedan_amg-c-43_fq_oem_11_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/mercedes-benz/c-class/2025/oem/2025_mercedes-benz_c-class_sedan_amg-c-43_fq_oem_7_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/mercedes-benz/c-class/2025/oem/2025_mercedes-benz_c-class_sedan_amg-c-43_rq_oem_3_1280x855.jpg"
             ],
-            "name": "BMW 3 Series",
-            "price": 1514948,
-            "year": 2020,
+            "name": "Mercedes-Benz C-Class",
+            "price": 7800000,
+            "year": 2025,
             "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
+            "color": "Серебристый",
+            "body": "Седан",
             "drive": "Полный",
-            "mileage": 192413,
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
+            "mileage": 0,
+            "engine": "2.0L турбо бензин, 204 л.с.",
+            "condition": "Новое"
         },
         {
-            "id": 2,
+            "id": 10,
             "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+                "https://media.ed.edmunds-media.com/lexus/es/2025/oem/2025_lexus_es_sedan_250-f-sport-design_fq_oem_4_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/lexus/es/2025/oem/2025_lexus_es_sedan_250-f-sport-design_s_oem_1_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/lexus/es/2025/oem/2025_lexus_es_sedan_250-f-sport-design_r_oem_1_1280x855.jpg"
             ],
-            "name": "BMW 3 Series",
-            "price": 1314948,
-            "year": 2020,
+            "name": "Lexus ES",
+            "price": 6500000,
+            "year": 2025,
             "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
-            "drive": "Полный",
-            "mileage": 192413,
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
+            "color": "Чёрный металлик",
+            "body": "Седан",
+            "drive": "Передний",
+            "mileage": 0,
+            "engine": "2.5L гибрид, 218 л.с.",
+            "condition": "Новое"
         },
         {
-            "id": 3,
+            "id": 11,
             "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+                "https://media.ed.edmunds-media.com/toyota/rav4/2025/oem/2025_toyota_rav4_4dr-suv_limited_fq_oem_3_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/toyota/rav4/2025/oem/2025_toyota_rav4_4dr-suv_limited_rq_oem_2_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/toyota/rav4/2025/oem/2025_toyota_rav4_4dr-suv_limited_rq_oem_3_1280x855.jpg"
             ],
-            "name": "BMW 3 Series",
-            "price": 1114948,
-            "year": 2020,
+            "name": "Toyota RAV4",
+            "price": 4500000,
+            "year": 2025,
             "steering": "Левый",
-            "color": "Серый",
+            "color": "Серебристый",
             "body": "Кроссовер",
             "drive": "Полный",
-            "mileage": 192413,
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
+            "mileage": 0,
+            "engine": "2.5L бензин, 203 л.с.",
+            "condition": "Новое"
         },
         {
-            "id": 4,
+            "id": 12,
             "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+                "https://media.ed.edmunds-media.com/hyundai/tucson/2025/oem/2025_hyundai_tucson_4dr-suv_n-line-hybrid_fq_oem_4_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/hyundai/tucson/2025/oem/2025_hyundai_tucson_4dr-suv_n-line-hybrid_fq_oem_6_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/hyundai/tucson/2025/oem/2025_hyundai_tucson_4dr-suv_n-line-hybrid_rq_oem_3_1280x855.jpg"
             ],
-            "name": "BMW 3 Series",
-            "price": 914948,
-            "year": 2020,
+            "name": "Hyundai Tucson",
+            "price": 4000000,
+            "year": 2025,
             "steering": "Левый",
-            "color": "Серый",
+            "color": "Серый металлик",
             "body": "Кроссовер",
             "drive": "Полный",
-            "mileage": 192413,
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
+            "mileage": 0,
+            "engine": "2.5L бензин, 190 л.с.",
+            "condition": "Новое"
         },
         {
-            "id": 1,
+            "id": 13,
             "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+                "https://media.ed.edmunds-media.com/kia/sportage/2024/oem/2024_kia_sportage_4dr-suv_x-pro_fq_oem_1_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/kia/sportage/2024/oem/2024_kia_sportage_4dr-suv_x-pro_edetail_oem_2_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/kia/sportage/2024/oem/2024_kia_sportage_4dr-suv_x-pro_rq_oem_1_1280x855.jpg"
             ],
-            "name": "BMW 3 Series",
-            "price": 1514948,
-            "year": 2020,
+            "name": "Kia Sportage",
+            "price": 3800000,
+            "year": 2025,
             "steering": "Левый",
-            "color": "Серый",
+            "color": "Серебристый",
             "body": "Кроссовер",
             "drive": "Полный",
-            "mileage": 192413,
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
+            "mileage": 0,
+            "engine": "2.0L бензин, 156 л.с.",
+            "condition": "Новое"
         },
         {
-            "id": 2,
+            "id": 14,
             "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+                "https://media.ed.edmunds-media.com/honda/cr-v/2025/oem/2025_honda_cr-v_4dr-suv_ex-l_fq_oem_3_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/honda/cr-v/2025/oem/2025_honda_cr-v_4dr-suv_ex-l_s_oem_1_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/honda/cr-v/2025/oem/2025_honda_cr-v_4dr-suv_ex-l_rq_oem_2_1280x855.jpg"
             ],
-            "name": "BMW 3 Series",
-            "price": 1314948,
-            "year": 2020,
+            "name": "Honda CR-V",
+            "price": 4200000,
+            "year": 2025,
             "steering": "Левый",
-            "color": "Серый",
+            "color": "Красный",
             "body": "Кроссовер",
             "drive": "Полный",
-            "mileage": 192413,
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
+            "mileage": 0,
+            "engine": "1.5L турбо бензин, 190 л.с.",
+            "condition": "Новое"
         },
         {
-            "id": 3,
+            "id": 15,
             "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+                "https://media.ed.edmunds-media.com/nissan/rogue/2025/oem/2025_nissan_rogue_4dr-suv_platinum_fq_oem_5_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/nissan/rogue/2025/oem/2025_nissan_rogue_4dr-suv_rock-creek_fq_oem_2_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/nissan/rogue/2025/oem/2025_nissan_rogue_4dr-suv_rock-creek_rq_oem_1_1280x855.jpg"
             ],
-            "name": "BMW 3 Series",
-            "price": 1114948,
-            "year": 2020,
+            "name": "Nissan Rogue",
+            "price": 4100000,
+            "year": 2025,
             "steering": "Левый",
-            "color": "Серый",
+            "color": "Песочный",
             "body": "Кроссовер",
-            "drive": "Полный",
-            "mileage": 192413,
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
+            "drive": "Передний",
+            "mileage": 0,
+            "engine": "1.5L бензин, 201 л.с.",
+            "condition": "Новое"
         },
         {
-            "id": 4,
+            "id": 16,
             "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+                "https://media.ed.edmunds-media.com/subaru/forester/2025/oem/2025_subaru_forester_4dr-suv_limited_fq_oem_5_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/subaru/forester/2025/oem/2025_subaru_forester_4dr-suv_touring-hybrid_fq_oem_2_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/subaru/forester/2025/oem/2025_subaru_forester_4dr-suv_limited_rq_oem_1_1280x855.jpg"
             ],
-            "name": "BMW 3 Series",
-            "price": 914948,
-            "year": 2020,
+            "name": "Subaru Forester",
+            "price": 4300000,
+            "year": 2025,
             "steering": "Левый",
-            "color": "Серый",
+            "color": "Зелёный",
             "body": "Кроссовер",
             "drive": "Полный",
-            "mileage": 192413,
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
+            "mileage": 0,
+            "engine": "2.5L бензин, 185 л.с.",
+            "condition": "Новое"
         },
         {
-            "id": 1,
+            "id": 17,
             "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+                "https://media.ed.edmunds-media.com/mazda/cx-5/2025/oem/2025_mazda_cx-5_4dr-suv_25-turbo-premium_fq_oem_3_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/mazda/cx-5/2025/oem/2025_mazda_cx-5_4dr-suv_25-turbo-premium_fq_oem_1_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/mazda/cx-5/2025/oem/2025_mazda_cx-5_4dr-suv_25-turbo-premium_rq_oem_1_1280x855.jpg"
             ],
-            "name": "BMW 3 Series",
-            "price": 1514948,
-            "year": 2020,
+            "name": "Mazda CX-5",
+            "price": 4400000,
+            "year": 2025,
             "steering": "Левый",
-            "color": "Серый",
+            "color": "Красный",
             "body": "Кроссовер",
             "drive": "Полный",
-            "mileage": 192413,
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
+            "mileage": 0,
+            "engine": "2.5L турбо бензин, 227 л.с.",
+            "condition": "Новое"
         },
         {
-            "id": 2,
+            "id": 18,
             "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+                "https://www.edmunds.com/assets/m/cs/blt19dba9e8dec2e086/673e3fa3ab8926c18eb1546e/2025_Volkswagen_Tiguan_098_1280.jpg",
+                "https://www.edmunds.com/assets/m/cs/blt943c6ae21e2c51e1/673e3fa2500d101e240015c8/2025_Volkswagen_Tiguan_011_1280.jpg",
+                "https://www.edmunds.com/assets/m/cs/bltb301f432a47616ab/673e3fa2c630cf81b8919b63/2025_Volkswagen_Tiguan_029_1280.jpg"
             ],
-            "name": "BMW 3 Series",
-            "price": 1314948,
-            "year": 2020,
+            "name": "Volkswagen Tiguan",
+            "price": 4600000,
+            "year": 2025,
             "steering": "Левый",
-            "color": "Серый",
+            "color": "Белый",
             "body": "Кроссовер",
             "drive": "Полный",
-            "mileage": 192413,
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
+            "mileage": 0,
+            "engine": "2.0L турбо бензин, 200 л.с.",
+            "condition": "Новое"
         },
         {
-            "id": 3,
+            "id": 19,
             "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+                "https://media.ed.edmunds-media.com/bmw/x3/2025/oem/2025_bmw_x3_4dr-suv_m50-xdrive_fq_oem_8_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/bmw/x3/2025/oem/2025_bmw_x3_4dr-suv_m50-xdrive_fq_oem_1_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/bmw/x3/2025/oem/2025_bmw_x3_4dr-suv_m50-xdrive_rq_oem_10_1280x855.jpg"
             ],
-            "name": "BMW 3 Series",
-            "price": 1114948,
-            "year": 2020,
+            "name": "BMW X3",
+            "price": 8200000,
+            "year": 2025,
             "steering": "Левый",
-            "color": "Серый",
+            "color": "Чёрный металлик",
             "body": "Кроссовер",
             "drive": "Полный",
-            "mileage": 192413,
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
+            "mileage": 0,
+            "engine": "2.0L турбо бензин, 252 л.с.",
+            "condition": "Новое"
         },
         {
-            "id": 4,
+            "id": 20,
             "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+                "https://media.ed.edmunds-media.com/mercedes-benz/glc-class/2025/oem/2025_mercedes-benz_glc-class_4dr-suv_amg-glc-63-s-e-performance_fq_oem_3_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/mercedes-benz/glc-class/2025/oem/2025_mercedes-benz_glc-class_4dr-suv_amg-glc-63-s-e-performance_fq_oem_2_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/mercedes-benz/glc-class/2025/oem/2025_mercedes-benz_glc-class_4dr-suv_amg-glc-63-s-e-performance_rq_oem_1_1280x855.jpg"
             ],
-            "name": "BMW 3 Series",
-            "price": 914948,
-            "year": 2020,
+            "name": "Mercedes-Benz GLC",
+            "price": 8500000,
+            "year": 2025,
             "steering": "Левый",
-            "color": "Серый",
+            "color": "Серебристый",
             "body": "Кроссовер",
             "drive": "Полный",
-            "mileage": 192413,
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
+            "mileage": 0,
+            "engine": "2.0L турбо бензин, 258 л.с.",
+            "condition": "Новое"
         },
         {
-            "id": 1,
+            "id": 21,
             "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+                "https://media.ed.edmunds-media.com/audi/q5/2025/oem/2025_audi_q5_4dr-suv_prestige-s-line_fq_oem_2_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/audi/q5/2025/oem/2025_audi_q5_4dr-suv_prestige-s-line_s_oem_1_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/audi/q5/2025/oem/2025_audi_q5_4dr-suv_prestige-s-line_rq_oem_1_1280x855.jpg"
             ],
-            "name": "BMW 3 Series",
-            "price": 1514948,
-            "year": 2020,
+            "name": "Audi Q5",
+            "price": 7800000,
+            "year": 2025,
             "steering": "Левый",
-            "color": "Серый",
+            "color": "Синий металлик",
             "body": "Кроссовер",
             "drive": "Полный",
-            "mileage": 192413,
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
+            "mileage": 0,
+            "engine": "2.0L турбо бензин, 249 л.с.",
+            "condition": "Новое"
         },
         {
-            "id": 2,
+            "id": 22,
             "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+                "https://media.ed.edmunds-media.com/lexus/rx/2025/oem/2025_lexus_rx_4dr-suv_500h-f-sport-performance_fq_oem_5_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/lexus/rx/2025/oem/2025_lexus_rx_4dr-suv_500h-f-sport-performance_fq_oem_2_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/lexus/rx/2025/oem/2025_lexus_rx_4dr-suv_500h-f-sport-performance_rq_oem_1_1280x855.jpg"
             ],
-            "name": "BMW 3 Series",
-            "price": 1314948,
-            "year": 2020,
+            "name": "Lexus RX",
+            "price": 9000000,
+            "year": 2025,
             "steering": "Левый",
-            "color": "Серый",
+            "color": "Черный",
             "body": "Кроссовер",
             "drive": "Полный",
-            "mileage": 192413,
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
+            "mileage": 0,
+            "engine": "2.4L турбо бензин, 275 л.с.",
+            "condition": "Новое"
         },
         {
-            "id": 3,
+            "id": 23,
             "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+                "https://media.ed.edmunds-media.com/porsche/cayenne/2025/oem/2025_porsche_cayenne_4dr-suv_e-hybrid_fq_oem_3_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/porsche/cayenne/2025/oem/2025_porsche_cayenne_4dr-suv_e-hybrid_fq_oem_4_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/porsche/cayenne/2025/oem/2025_porsche_cayenne_4dr-suv_e-hybrid_rq_oem_1_1280x855.jpg"
             ],
-            "name": "BMW 3 Series",
-            "price": 1114948,
-            "year": 2020,
+            "name": "Porsche Cayenne",
+            "price": 15000000,
+            "year": 2025,
             "steering": "Левый",
-            "color": "Серый",
+            "color": "Чёрный",
             "body": "Кроссовер",
             "drive": "Полный",
-            "mileage": 192413,
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
+            "mileage": 0,
+            "engine": "3.0L турбо бензин, 353 л.с.",
+            "condition": "Новое"
         },
         {
-            "id": 4,
+            "id": 24,
             "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+                "https://media.ed.edmunds-media.com/toyota/highlander/2025/oem/2025_toyota_highlander_4dr-suv_xse_fq_oem_2_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/toyota/highlander/2025/oem/2025_toyota_highlander_4dr-suv_xse_s_oem_1_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/toyota/highlander/2025/oem/2025_toyota_highlander_4dr-suv_xse_rq_oem_1_1280x855.jpg"
             ],
-            "name": "BMW 3 Series",
-            "price": 914948,
-            "year": 2020,
+            "name": "Toyota Highlander",
+            "price": 6000000,
+            "year": 2025,
             "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
+            "color": "Белый",
+            "body": "Внедорожник",
             "drive": "Полный",
-            "mileage": 192413,
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
+            "mileage": 0,
+            "engine": "2.4L турбо бензин, 265 л.с.",
+            "condition": "Новое"
         },
         {
-            "id": 1,
+            "id": 25,
             "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+                "https://media.ed.edmunds-media.com/jeep/grand-cherokee/2025/oem/2025_jeep_grand-cherokee_4dr-suv_overland_f_oem_1_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/jeep/grand-cherokee/2025/oem/2025_jeep_grand-cherokee_4dr-suv_summit-reserve_fq_oem_1_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/jeep/grand-cherokee/2025/oem/2025_jeep_grand-cherokee_4dr-suv_overland_rq_oem_2_1280x855.jpg"
             ],
-            "name": "BMW 3 Series",
-            "price": 1514948,
-            "year": 2020,
+            "name": "Jeep Grand Cherokee",
+            "price": 7500000,
+            "year": 2025,
             "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
+            "color": "Белый",
+            "body": "Внедорожник",
             "drive": "Полный",
-            "mileage": 192413,
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
+            "mileage": 0,
+            "engine": "3.6L бензин, 293 л.с.",
+            "condition": "Новое"
         },
         {
-            "id": 2,
+            "id": 26,
             "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+                "https://media.ed.edmunds-media.com/ford/explorer/2025/oem/2025_ford_explorer_4dr-suv_st_fq_oem_8_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/ford/explorer/2025/oem/2025_ford_explorer_4dr-suv_st_fq_oem_6_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/ford/explorer/2025/oem/2025_ford_explorer_4dr-suv_st_rq_oem_1_1280x855.jpg"
             ],
-            "name": "BMW 3 Series",
-            "price": 1314948,
-            "year": 2020,
+            "name": "Ford Explorer",
+            "price": 6500000,
+            "year": 2025,
             "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
+            "color": "Голубой",
+            "body": "Внедорожник",
             "drive": "Полный",
-            "mileage": 192413,
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
+            "mileage": 0,
+            "engine": "2.3L турбо бензин, 300 л.с.",
+            "condition": "Новое"
         },
         {
-            "id": 3,
+            "id": 27,
             "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+                "https://media.ed.edmunds-media.com/tesla/model-y/2025/oem/2025_tesla_model-y_4dr-suv_performance_fq_oem_3_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/tesla/model-y/2025/oem/2025_tesla_model-y_4dr-suv_performance_rq_oem_9_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/tesla/model-y/2025/oem/2025_tesla_model-y_4dr-suv_performance_rq_oem_5_1280x855.jpg"
             ],
-            "name": "BMW 3 Series",
-            "price": 1114948,
-            "year": 2020,
+            "name": "Tesla Model Y",
+            "price": 7000000,
+            "year": 2025,
             "steering": "Левый",
-            "color": "Серый",
+            "color": "Белый перламутр",
             "body": "Кроссовер",
             "drive": "Полный",
-            "mileage": 192413,
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
+            "mileage": 0,
+            "engine": "Электрический, 450 л.с.",
+            "condition": "Новое"
         },
         {
-            "id": 4,
+            "id": 28,
             "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+                "https://media.ed.edmunds-media.com/porsche/911/2025/oem/2025_porsche_911_coupe_gt3-rs_fq_oem_5_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/porsche/911/2025/oem/2025_porsche_911_coupe_gt3-rs_fq_oem_2_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/porsche/911/2025/oem/2025_porsche_911_coupe_gt3-rs_fq_oem_4_1280x855.jpg"
             ],
-            "name": "BMW 3 Series",
-            "price": 914948,
-            "year": 2020,
+            "name": "Porsche 911",
+            "price": 20000000,
+            "year": 2025,
             "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
+            "color": "Серебристый",
+            "body": "Купе",
             "drive": "Полный",
-            "mileage": 192413,
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
+            "mileage": 0,
+            "engine": "3.0L турбо бензин, 385 л.с.",
+            "condition": "Новое"
         },
         {
-            "id": 1,
+            "id": 29,
             "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+                "https://media.ed.edmunds-media.com/bmw/m4/2025/oem/2025_bmw_m4_coupe_competition-xdrive_f_oem_2_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/bmw/m4/2025/oem/2025_bmw_m4_coupe_competition-xdrive_fq_oem_2_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/bmw/m4/2025/oem/2025_bmw_m4_coupe_competition-xdrive_rq_oem_2_1280x855.jpg"
             ],
-            "name": "BMW 3 Series",
-            "price": 1514948,
-            "year": 2020,
+            "name": "BMW M4",
+            "price": 12000000,
+            "year": 2025,
             "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
+            "color": "Белый",
+            "body": "Купе",
             "drive": "Полный",
-            "mileage": 192413,
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
+            "mileage": 0,
+            "engine": "3.0L турбо бензин, 510 л.с.",
+            "condition": "Новое"
         },
         {
-            "id": 2,
+            "id": 30,
             "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
+                "https://media.ed.edmunds-media.com/mercedes-benz/s-class/2025/oem/2025_mercedes-benz_s-class_sedan_amg-s-63-e-performance_fq_oem_4_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/mercedes-benz/s-class/2025/oem/2025_mercedes-benz_s-class_sedan_amg-s-63-e-performance_rq_oem_16_1280x855.jpg",
+                "https://media.ed.edmunds-media.com/mercedes-benz/s-class/2025/oem/2025_mercedes-benz_s-class_sedan_amg-s-63-e-performance_rq_oem_2_1280x855.jpg"
             ],
-            "name": "BMW 3 Series",
-            "price": 1314948,
-            "year": 2020,
+            "name": "Mercedes-Benz S-Class",
+            "price": 18000000,
+            "year": 2025,
             "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
+            "color": "Чёрный",
+            "body": "Седан",
             "drive": "Полный",
-            "mileage": 192413,
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
-        },
-        {
-            "id": 3,
-            "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
-            ],
-            "name": "BMW 3 Series",
-            "price": 1114948,
-            "year": 2020,
-            "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
-            "drive": "Полный",
-            "mileage": 192413,
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
-        },
-        {
-            "id": 4,
-            "photos": [
-                "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-1016-hdr-1571838328.jpg?crop=0.827xw:0.761xh;0,0.239xh&resize=2048:*", "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-m340i-v-2020-genesis-g70-3p3t-989-hdr-1571838326.jpg?crop=0.810xw:0.809xh;0.190xw,0.191xh&resize=980:*"
-            ],
-            "name": "BMW 3 Series",
-            "price": 914948,
-            "year": 2020,
-            "steering": "Левый",
-            "color": "Серый",
-            "body": "Кроссовер",
-            "drive": "Полный",
-            "mileage": 192413,
-            "engine": "2.5L бензин",
-            "condition": "Среднее"
+            "mileage": 0,
+            "engine": "3.0L турбо бензин, 435 л.с.",
+            "condition": "Новое"
         }
     ]
 }
